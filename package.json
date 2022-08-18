@@ -1,6 +1,6 @@
 {
     "name": "@aleeinvo/knex-webpack-migration-source",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "[![Build Status](https://travis-ci.com/sevenwestmedia-labs/knex-webpack-migration-source.svg?branch=master)](https://travis-ci.com/sevenwestmedia-labs/knex-webpack-migration-source) [![](https://img.shields.io/npm/v/knex-webpack-migration-source.svg)](https://npmjs.org/packages/knex-webpack-migration-source) [![Greenkeeper badge](https://badges.greenkeeper.io/sevenwestmedia-labs/knex-webpack-migration-source.svg)](https://greenkeeper.io/)",
     "main": "dist/cjs/index.js",
     "module": "dist/esm/index.js",
@@ -40,7 +40,7 @@
         "typescript": "^3.2.2"
     },
     "peerDependencies": {
-        "knex": "^0.16.3"
+        "knex": "^2.2.0"
     },
     "dependencies": {
         "@types/node": "^12.7.2",
